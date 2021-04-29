@@ -29,3 +29,6 @@ npm run dev
 ```bash
 npm run test
 ```
+
+graph LR
+          ERC20Token
